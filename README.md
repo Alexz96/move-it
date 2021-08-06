@@ -4,7 +4,10 @@
 
 # Sobre o projeto
 
-EM CONSTRUÇÃO
+O projeto atual foi desenvolvido durante a Next Level Week de número 04 e tem como principal objetivo a execução de um desafio após um timer de 25 minutos ter sido passado.
+Com base na técnica Pomodoro, que visa aumentar a produtividade, que se foi elaborada a ideia do projeto.
+E os desafios em questão, são para lembrar-nos de alguns auto-cuidados que muitas vezes nos esquecemos e que fazem a diferença na nossa saúde.
+Dito isso, essa é uma ferramenta muito simples de se usar focada na prática e que usa a abordagem de diversas features do Framework ReactJS e do Next.js.
 
 ## Layout web
 ![Web 1](https://github.com/Alexz96/move-it/blob/master/resources/home1.png)
